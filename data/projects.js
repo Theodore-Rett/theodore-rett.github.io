@@ -28,4 +28,14 @@ export const projects = [
 		stack: ["Godot", "GDScript", "Figma"],
         repo: ""
 	},
+	{
+		slug: "night-quest",
+		title: "Night Quest",
+		environment: "MSOE - SWE 4411",
+		year: "2026",
+		description:
+			"ToDo",
+		stack: ["Godot", "GDScript"],
+		repo: "https://github.com/Theodore-Rett/night-quest"
+	}
 ];
