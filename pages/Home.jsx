@@ -15,7 +15,7 @@ export default function Home() {
 					<p>Theodore Rett is currently a senior Software Engineering Major at the Milwaukee School of Engineering, with a minor in User Experience. He enjoys experimenting with web development and game design in his free time. As well as designing and building sets for MSOE's Theatre Troupe, where he is currently on the executive board as the Production President.</p>
 				</div>
 				<div>
-					<img src="/images/professional-photo.jpg" alt="Theodore Rett Professional Photo" />
+					<img src="/professional-photo.jpg" alt="Theodore Rett Professional Photo" />
 				</div>
 			</div>
 		<h1>Recent Projects</h1>
