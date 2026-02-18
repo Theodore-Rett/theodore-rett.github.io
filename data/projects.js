@@ -4,7 +4,7 @@ export const projects = [
 		title: "Wordle on Desktop",
 		environment: "MSOE - SWE 2710",
 		year: "2023",
-		description: "Created a custom recreation of the popular New York Times game, Wordle, using Java. Worked in a small team of three people utilizing a scrum workflow to design and build the game from the ground up.",
+		description: "Created a custom recreation of the popular New York Times game, Wordle, using Java. Worked in a small team of three people utilizing a scrum workflow to design and build the game from the ground up. As well as implementing new custom features to make it our own.",
 		stack: ["Java", "JavaFx", "CSS"],
         repo: "https://github.com/Theodore-Rett/desktop-wordle"
 	},
@@ -24,7 +24,7 @@ export const projects = [
 		environment: "MSOE - Capstone",
 		year: "2025-2026",
 		description:
-			"A educational web based game, designed to help students engage with one another and learn team building and communication skills. Students will work together to pilot a spaceship from one destination to the next, playing a series of mini games to make progress and gain resources.",
+			"A web based game, designed to help students engage with one another and learn team building and communication skills. Students will work together to pilot a spaceship from one destination to the next, playing a series of mini games to make progress and gain resources.",
 		stack: ["Godot", "GDScript", "Figma"],
         repo: ""
 	},
@@ -34,7 +34,7 @@ export const projects = [
 		environment: "MSOE - SWE 4411",
 		year: "2026",
 		description:
-			"A 2D dungron crawler adventure game built in Godot. Following the journery of a young man who dreams of becoming a knight. Players will explore the world, battling monsters, and uncovering the ancient plot to rule the world.",
+			"A 2D dungeon crawler adventure game built in Godot. Following the journey of a young man who dreams of becoming a knight. Players will explore the world, battling monsters, and uncovering the ancient plot to rule the world.",
 		stack: ["Godot", "GDScript"],
 		repo: "https://github.com/Theodore-Rett/night-quest"
 	}
