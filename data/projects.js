@@ -25,7 +25,7 @@ export const projects = [
 		year: "2025-2026",
 		description:
 			"A web based game, designed to help students engage with one another and learn team building and communication skills. Students will work together to pilot a spaceship from one destination to the next, playing a series of mini games to make progress and gain resources.",
-		stack: ["Godot", "GDScript", "Figma"],
+		stack: ["Godot", "GDScript", "Figma", "Python"],
         repo: ""
 	},
 	{
